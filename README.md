@@ -2,4 +2,4 @@
 just an improved version of the old coin flipper 
 do visit my hosted website
 
- https://elastic-babbage-18dfca.netlify.app
+ https://sad-sammet-6d86cc.netlify.app

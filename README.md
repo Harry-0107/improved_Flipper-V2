@@ -2,4 +2,4 @@
 just an improved version of the old coin flipper 
 do visit my hosted website
 
- https://sad-sammet-6d86cc.netlify.app
+ https://coolcoingame.netlify.app
